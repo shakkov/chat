@@ -78,13 +78,13 @@ document.addEventListener('DOMContentLoaded', function() {
         {
             chat: chat1,
             id: 'fdsfasgasdf6758567867gh',
-            name: "John Doe"
+            name: "Pop Smoke"
 
         },
         {
             chat: chat2,
             id: 'fd785685asdfghlhjklghkj',
-            name: "Jane Doe"
+            name: "Rasul"
             
         }
     ]
@@ -196,7 +196,7 @@ document.addEventListener('DOMContentLoaded', function() {
         </div>
         `;
 
-        // friendsListContainer.insertAdjacentHTML('beforeEnd', item);
+        
     }
 });
 
